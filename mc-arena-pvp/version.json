@@ -1,0 +1,14 @@
+{
+    "name": "mc-one-vs-one-arena",
+    "author": "Salty",
+    "support": "https://link.rjks.us/support",
+    "latest": "1.0",
+    "versions": [
+        {
+            "version": "1.0",
+            "name": "1.0-alpha.1",
+            "description": "First release",
+            "date": "11:32am 26.05.2021"
+        }
+    ]
+}
